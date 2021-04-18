@@ -14,5 +14,5 @@ a = iplscore.score()
 
 ## OUTPUT
 
-![](images_iplscore/Screenshot 2021-04-18 at 10.47.26 PM.png)
+![](images_iplscore/Screenshot%202021-04-18%20at%2010.47.26%20PM.png)
 checkout : https://pypi.org/project/iplscore/
