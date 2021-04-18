@@ -9,6 +9,6 @@ Developed by Chiranjeev Mishra
 ```python
 import iplscore
 
-iplscore.match()
+iplscore.score()
 ```
 checkout : https://pypi.org/project/iplscore/
