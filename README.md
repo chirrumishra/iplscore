@@ -8,7 +8,7 @@ Developed by Chiranjeev Mishra
 
 ```python
 import iplscore
-//create an object of class score and here you go 
+#create an object of class score and here you go 
 a = iplscore.score()
 ```
 
