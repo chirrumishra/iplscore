@@ -1,10 +1,16 @@
-# IPLSCORE
+#IPLSCORE
 
 This is a library which is made for fun and getting ipl score while working 
 
 Developed by Chiranjeev Mishra
 
 ## Example of How to use it 
+
+```bash
+pip3 install iplscore
+```
+
+## Python Code 
 
 ```python
 import iplscore
